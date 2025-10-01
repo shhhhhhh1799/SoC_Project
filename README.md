@@ -73,7 +73,8 @@ APB와 AXI4-Lite 인터페이스를 구현하고 동작을 검증하였습니다
   - FND : 0.1초마다 +1 증가  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/Image/blob/main/AXI4-Lite_Block.png" alt="AXI4-Lite Block Diagram" width="800"/>
+  <img src="https://raw.githubusercontent.com/shhhhhhh1799/Image/main/AXI4_Lite.png" 
+       alt="AXI4-Lite Block Diagram" width="800"/>
 </p>
 
 ---
