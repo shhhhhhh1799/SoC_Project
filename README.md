@@ -55,9 +55,9 @@ APB와 AXI4-Lite 인터페이스를 구현하고 동작을 검증하였습니다
   - FND_ODR 값이 일정 시간마다 +1 증가하는지 시뮬레이션  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/Image/blob/main/SoC_AMBA.png"alt="AMBA Bus Overview" width="700"/>
+  <img src="https://raw.githubusercontent.com/shhhhhhh1799/Image/main/APB%20BUS.png" 
+       alt="APB Block Diagram" width="800"/>
 </p>
-
 
 ---
 
