@@ -74,13 +74,26 @@
 ---
 
 ## 🧪 시뮬레이션 결과
+
+### 🔹 APB Simulation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shhhhhhh1799/Image/main/SoC_Simulation.png" 
-       alt="SoC Simulation Result" width="900"/>
+  <img src="https://raw.githubusercontent.com/shhhhhhh1799/Image/main/APB%20BUS%20Simulation.png" 
+       alt="APB Simulation Waveform" width="900"/>
 </p>
 
-- **APB Testbench** : GPIO 입력에 따른 LED Shift, FND 증가 동작 검증  
-- **AXI4-Lite Testbench** : LED 주기적 반전, FND 값 증가 검증  
+- GPIO 입력에 따라 LED Shift 동작 확인  
+- FND 값이 주기적으로 +1 증가하는지 검증  
+
+---
+
+### 🔹 AXI4-Lite Simulation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shhhhhhh1799/Image/main/AXI4_Lite%20Simulation.png" 
+       alt="AXI4-Lite Simulation Waveform" width="900"/>
+</p>
+
+- LED가 0.1초마다 반전되는 동작 확인  
+- FND 값이 주기적으로 +1 증가하는지 검증  
 
 ---
 
